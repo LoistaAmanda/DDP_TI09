@@ -1,0 +1,12 @@
+Kendaraan =  [ "B2248UL" , "beat" , 500 , "Hijau" ]
+
+Kendaraan.append("25 juta")
+
+Kendaraan.append(2)
+
+Kendaraan.insert(2,"Honda")
+
+Kendaraan.insert(3,"matic")
+
+
+print(Kendaraan)
